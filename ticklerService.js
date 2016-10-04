@@ -12,6 +12,8 @@ function Secretary() {
   this.getLeads = function(){
     //Go to the boss and get the leads
     //then give me the leads
+    return leads;
+
   }
   
   this.addConversion = function(name){
