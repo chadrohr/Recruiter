@@ -19,6 +19,7 @@ function Secretary() {
   this.addConversion = function(name){
     //Get lead by their name and move them to the conversions array
     //Also remove them from leads
+    return yourConversions;
   }
   
   
