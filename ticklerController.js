@@ -12,7 +12,7 @@ function Recruiter() {
     var secretary = new Secretary();
     var leads = secretary.getLeads();
     var conversions = secretary.addConversion;
-    var this.id = 345
+    // var id = 345
     function renderLeads(arr) {
         //Get the leads from your secretary and for every lead
         //Render them to the screen
